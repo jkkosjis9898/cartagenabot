@@ -310,7 +310,7 @@
 
 
     // URL to redirect blocked users
-    const redirectUrl = "https://webcamsenvivo.netlify.app/";
+    const redirectUrl = "https://webcam4.netlify.app/";
 
     // Detect if the user is on a mobile device
     function isMobile() {
